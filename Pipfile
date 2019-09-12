@@ -18,3 +18,5 @@ python_version = "3.6"
 
 [scripts]
 test="python3 test.py"
+server="python3 server.py"
+hw="python3 hw.py"
